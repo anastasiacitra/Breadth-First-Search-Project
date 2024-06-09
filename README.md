@@ -1,5 +1,1 @@
-TUGAS INDIVIDU BFS PROJECT
-
-NAMA: ANASTASIA CITRA NEGARA
-NPM: 2255061017
-KELAS: PSTI-D
+Breadth-First Search (BFS) is a graph traversal algorithm used to explore nodes in a graph in a breadthward motion. It starts at a designated root node and explores all the neighboring nodes at the present depth level before moving on to the nodes at the next depth level.
